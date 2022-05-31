@@ -11,4 +11,4 @@ A server-side command line interface application that generates an HTML page bas
 ### Technologies Used
 HTML, CSS, JavaScript, Node.js, Jest, Inquirer, fs
 
-Screenshot of a sample HTML page generated [here](./team-profile-generator.png)
+Screenshot of a sample HTML page generated !(./team-profile-generator.png)
